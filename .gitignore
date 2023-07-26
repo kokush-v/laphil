@@ -4,5 +4,5 @@
 #vscode
 /.vscode
 
-#dist
-/dist
+#env
+/.env
