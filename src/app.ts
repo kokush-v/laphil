@@ -10,3 +10,5 @@ app.use("/", router);
 app.listen(port, () => {
 	return console.log(`Express is listening at http://localhost:${port}\nRunning a GraphQL API server at http://localhost:${port}/graphql`);
 });
+
+export default app;
